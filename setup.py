@@ -1,10 +1,11 @@
 import setuptools
+# other imports and setups
 
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-gbland0725", # Replace with your own username
+    name="example_pkg-gbland0725", # Replace with your own username
     version="0.0.1",
     author="Garret",
     author_email="garretbland@gmail.com",
